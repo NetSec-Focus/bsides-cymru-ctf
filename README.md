@@ -1,8 +1,8 @@
-## Bsides Cymru!
+## Bsides Cymru 2019!
 
-In 2019 Bsides comes to Cardiff and NetSec Focus have one ticket to giveaway! If you can make it to Cardiff on the 28th September 2019 and want a free ticket I've got a little puzzle for you (or if you just want a fun challenge). More details about Bsides Cardiff [here](https://www.bsides.cymru/)
+In 2019 Bsides comes to Cardiff for the first time and NetSec Focus have one ticket to giveaway! If you can make it to Cardiff on the 28th September 2019 and want a free ticket I've got a little puzzle for you (or if you just want a fun challenge). More details about Bsides Cardiff [here](https://www.bsides.cymru/)
 
-Simply decrypt the files and let me know what they say. Hit me up on twitter @netsecfocus or join us on Mattermost and contact vcsec with your answer https://mm.netsecfocus.com/join/
+Simply decrypt the files and let me know what they say. DM me on twitter @netsecfocus or join us on Mattermost and contact vcsec with your answer https://mm.netsecfocus.com/join/
 
 ## Presenting the Neu CyFun-o &trade; encryption script with AES128 encryption.
 
